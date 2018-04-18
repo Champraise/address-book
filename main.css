@@ -1,0 +1,36 @@
+h1 {
+    text-align: center;
+    color: lightcoral;
+    border: 2px;
+    box-shadow: 2px 2px lightgray;
+}
+p {
+    background-color: rgb(153, 153, 153);
+}
+.col-1 {
+    width: 19.5%;
+   }
+.col-2 {
+    width: 49.5%;
+   }
+.col-3 {
+    width: 29%;
+    }
+#control_section {
+    float: left;
+    margin: 2px;
+    padding: 2px;
+    background-color: gainsboro;
+}
+#contact_list {
+    float: left;
+    margin: 2px;
+    padding: 2px;
+    background-color: gainsboro;
+}
+#contact_view_add {
+    float: left;
+    margin: 2px;
+    padding: 2px;
+    background-color: gainsboro;
+}
